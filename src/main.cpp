@@ -215,8 +215,7 @@ int main(void)
 		//if the command will be import...
 		else if( command =="import")	
 		{
-			// path that i used - /Users/symbat/Desktop/sublime/assignment3/contact_examples.csv
-
+		
 			cout<<myContactBST.importCSV(root,key)<<endl;//call a method importCSV of BST which either returns the number of contacts read 
 														//from the file as integer or returns -1 if a bad path is provided
 		
@@ -225,8 +224,6 @@ int main(void)
 		//if the command will be export...
 		else if( command =="export")
 		{
-			// path that i used- /Users/symbat/Desktop/contact_updated.csv 
-
 			cout<<myContactBST.exportCSV(root,key)<<endl;//call a method exportCSV of BST which either returns the number of contacts read 
 														//from the file as integer or returns -1 if a bad path is provided
 			
