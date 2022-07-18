@@ -1,6 +1,6 @@
 # Contact-Management-System
 
-This is an application for storing one's personal contacts and their attributes such as first name, last name, phone number, email address, city, country, and a flag showing whether a contact is among favorite contacts or not. The application will be able to import/ export the contacts into a comma separated (CSV) file. Simple and easy-to-use user interface allows a user to navigate and perform the tasks/features listed in the following section.
+This is an application for storing one's personal contacts and their attributes such as first name, last name, phone number, email address, city, country, and a flag showing whether a contact is among favorite contacts or not. The application offers a feature to import/ export the contacts into a comma separated (CSV) file. Simple and easy-to-use user interface allows a user to navigate and perform the tasks/features listed in the following section.
 
 **Features**
 - Import all the contacts from the CSV file at path to the program
