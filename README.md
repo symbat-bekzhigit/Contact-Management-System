@@ -14,3 +14,7 @@ This is an application for storing one's personal contacts and their attributes 
 - Display all favorite contacts in anascending order
 - Display the available commands and their descriptions
 - Exit the program
+
+
+***
+![](bin/img1.png)
